@@ -1,3 +1,3 @@
 <?php
-	echo utf8_encode("Ol� Mundo");
+	echo utf8_encode("Olá Mundo");
 ?>
